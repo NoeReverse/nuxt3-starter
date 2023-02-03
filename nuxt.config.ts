@@ -27,8 +27,7 @@ export default defineNuxtConfig({
   // See: https://google-fonts.nuxtjs.org/options
   googleFonts: {
     families: {
-      Roboto: [100, 300, 400, 500, 700],
-      Lato: true
+      Roboto: [100, 300, 400, 500, 700]
     }
   },
 
