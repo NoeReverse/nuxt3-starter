@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "@nuxtjs/eslint-config-typescript",
+    "plugin:prettier/recommended"
+  ],
+  "rules": {
+    "vue/no-v-model-argument": 0,
+    "vue/multi-word-component-names": 0
+  }
+}
