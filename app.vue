@@ -1,7 +1,7 @@
 <template>
-  <div class="h-full">
+  <AppUi>
     <NuxtPage />
-  </div>
+  </AppUi>
 </template>
 
 <style lang="scss">
